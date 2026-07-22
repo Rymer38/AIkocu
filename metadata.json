@@ -1,0 +1,6 @@
+{
+  "name": "YKS Koçluk ve Deneme Takibi",
+  "description": "Modern, duyarlı ve yapay zeka destekli TYT/AYT Deneme Sınavı Takip, Yanlış Soru Defteri, Pomodoro ve Eğitim Koçluğu Platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
